@@ -2,6 +2,10 @@
 
 This notebook is an introduction exercise to data analysis, from Udacity’s Data Analyst Nanodegree.
 
+**This notebook can be read more comfortably [here](https://hadrien-lcrx.github.io/notebooks/Bay_Area_Bike_Share_Analysis.html).**
+
+**You can also access my portfolio and other projects [here](https://hadrien-lcrx.github.io).**
+
 
 ## Files
 
